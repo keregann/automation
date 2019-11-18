@@ -1,0 +1,2 @@
+Write your own custom class with appropriate fields and methods.
+Show all  you have learned to make this class completely defined.
